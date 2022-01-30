@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9b8d3cb5898fd8247b408c84dbb9df27
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Supermercado
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bff5c9971a4f3f24da843a794c990521, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
